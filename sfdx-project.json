@@ -1,0 +1,11 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://curious-bear-55229-dev-ed.my.salesforce.com",
+    "sourceApiVersion": "59.0"
+}
